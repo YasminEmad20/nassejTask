@@ -1,0 +1,24 @@
+$font-stack:'Tajawal', sans-serif;
+body
+{
+  overflow-x: hidden;
+}
+
+body,a,p,h1,h2,h3,h4,h5,h6
+{
+  font-family: $font-stack;
+}
+a{
+  color: #fff !important;
+  &:hover
+  {
+    color: #a5a5ad !important;
+    text-decoration: none;
+  }
+}
+
+ul,ol
+{
+  padding: 0;
+  margin: 0;
+}

@@ -1,0 +1,33 @@
+#l-top-header {
+  width: 100%;
+  float: left;
+  position: absolute;
+  z-index: 99999999;
+  max-width: 1500px;
+  padding: 0 40px;
+  margin-top: 5px; }
+
+.l-right {
+  float: right; }
+
+.l-Rdirection {
+  direction: rtl; }
+
+.l-white {
+  color: #fff; }
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%; }
+
+.l-padding {
+  padding: 0 80px; }
+
+.l-s-padding {
+  padding: 0 15px; }
+
+.l-mtop {
+  margin-top: 15px; }
+
+/*# sourceMappingURL=layout.css.map */

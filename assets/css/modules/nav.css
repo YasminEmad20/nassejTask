@@ -1,0 +1,44 @@
+.m-slogan {
+  font-size: 9px; }
+
+.m-sticky-bar {
+  position: absolute;
+  z-index: 99999999;
+  width: 100%; }
+
+.navbar-brand img {
+  width: 125px; }
+
+ul.navbar-nav {
+  border-top: 1px solid #A1A0A0;
+  border-bottom: 1px solid #A1A0A0; }
+
+.m-top-bar {
+  padding: 0 1rem; }
+
+.m-top-bar ul li {
+  display: inline-block;
+  padding-right: 22px; }
+
+.m-top-bar ul li:last-child {
+  padding-right: 55px; }
+
+.carousel-caption h1 {
+  font-size: 31px;
+  margin-bottom: 20px; }
+
+.m-style1-caption {
+  bottom: auto;
+  top: 180px;
+  width: 29%;
+  left: auto;
+  right: 7%; }
+
+.m-style2-caption {
+  bottom: auto;
+  top: 180px;
+  width: 29%;
+  right: auto;
+  left: 7%; }
+
+/*# sourceMappingURL=nav.css.map */
